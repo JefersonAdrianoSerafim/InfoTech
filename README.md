@@ -17,4 +17,5 @@ curl -X PUT http://localhost:3000/posts/1 -H "Content-Type: application/json" -d
 "categoria_post": "Categoria atualizada"}'
 
 __Delete:__
+
 curl -X DELETE http://localhost:3000/posts/1
